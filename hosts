@@ -1,0 +1,84 @@
+# Telemetry / Analytics
+0.0.0.0 graph.oculus.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 analytics.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 logging.facebook.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 upload.facebook.com
+0.0.0.0 rupload.facebook.com
+0.0.0.0 realitylabs-graph.facebook.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons5.gvt2.com
+0.0.0.0 shortwave.facebook.com"  
+
+# Presence / Social
+0.0.0.0 presence.oculus.com
+0.0.0.0 social.oculus.com
+0.0.0.0 api.facebook.com
+0.0.0.0 portal.fb.com
+0.0.0.0 horizon.meta.com
+
+# Auth / Account
+0.0.0.0 secure.oculus.com
+0.0.0.0 auth.oculus.com
+0.0.0.0 api.oculus.com
+0.0.0.0 graph.facebook.net
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 web.facebook.com
+0.0.0.0 oculus.com
+0.0.0.0 www.oculus.com
+0.0.0.0 meta.graph.meta.com
+0.0.0.0 meta.graph.facebook.com
+0.0.0.0 gateway.facebook.com
+0.0.0.0 graph.facebook-hardware.com
+0.0.0.0 graph-fallback.oculus.com
+0.0.0.0 www.meta.com
+0.0.0.0 messenger.com
+0.0.0.0 www.messenger.com
+0.0.0.0 msngr.com
+0.0.0.0 www.msngr.com
+0.0.0.0 m.me
+0.0.0.0 www.m.me
+0.0.0.0 familycenter.messenger.com
+
+# Store / Entitlements
+0.0.0.0 store.oculus.com
+0.0.0.0 securecdn.oculus.com
+0.0.0.0 scontent.oculuscdn.com
+0.0.0.0 cdn.oculus.com
+0.0.0.0 securecdn-ams4-1.oculus.com
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 ugc.oculuscdn.com", "cdn.fbsbx.com
+0.0.0.0 scontent-ams4-1.oculuscdn.com
+0.0.0.0 scontent-ams2-1.oculuscdn.com
+0.0.0.0 scontent-ams4-1.xx.fbcdn.net
+0.0.0.0 scontent-ams2-1.xx.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 scontent-ord5-2.xx.fbcdn.net
+0.0.0.0 scontent-ord5-1.xx.fbcdn.net
+0.0.0.0 scontent-man2-1.xx.fbcdn.net
+0.0.0.0 scontent-lhr6-2.xx.fbcdn.net
+0.0.0.0 scontent-lga3-3.xx.fbcdn.net
+0.0.0.0 scontent-lax3-1.xx.fbcdn.net
+0.0.0.0 scontent-dfw5-3.xx.fbcdn.net
+0.0.0.0 scontent-det1-1.xx.fbcdn.net
+0.0.0.0 scontent-atl3-1.xx.fbcdn.net
+0.0.0.0 scontent.fluk1-1.fna.fbcdn.net
+0.0.0.0 scontent.fcps3-1.fna.fbcdn.net
+0.0.0.0 scontent.fagc3-2.fna.fbcdn.net
+0.0.0.0 scontent.fagc3-1.fna.fbcdn.net
+
+# Media / Streaming
+0.0.0.0 video.oculus.com
+0.0.0.0 media.oculuscdn.com
+0.0.0.0 lookaside.facebook.com
+0.0.0.0 lookaside.fbsbx.com
+
+# Misc Backend / Services
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 b-www.facebook.com
