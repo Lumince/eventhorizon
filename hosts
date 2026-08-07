@@ -13,7 +13,7 @@
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons5.gvt2.com
-0.0.0.0 shortwave.facebook.com"  
+0.0.0.0 shortwave.facebook.com
 
 # Presence / Social
 0.0.0.0 presence.oculus.com
@@ -53,7 +53,8 @@
 0.0.0.0 cdn.oculus.com
 0.0.0.0 securecdn-ams4-1.oculus.com
 0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 ugc.oculuscdn.com", "cdn.fbsbx.com
+0.0.0.0 ugc.oculuscdn.com
+0.0.0.0 cdn.fbsbx.com
 0.0.0.0 scontent-ams4-1.oculuscdn.com
 0.0.0.0 scontent-ams2-1.oculuscdn.com
 0.0.0.0 scontent-ams4-1.xx.fbcdn.net
