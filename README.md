@@ -2,7 +2,7 @@
 
 # Singularity
 
-Singularity is an AIO pancake (ionstack port) root app for Meta VR headsets.
+Singularity is an AIO pancake (ionstack port) temp root app for Meta VR headsets.
 
 This supports Quest 2, pro, 3, and 3s currently. The process can take a bit to achieve root access. If you are having issues with it failing. Please power the device off and on and try again.
 
@@ -12,7 +12,7 @@ This supports Quest 2, pro, 3, and 3s currently. The process can take a bit to a
 - Root Terminal
 - Internet kill switch and Domain Blocker
 - Wireless ADB Setup
-- Frida-Server 
+~~- Frida-Server~~ (has been removed due to the recent announcement in FreeXR, you can check the FreeXR announcements for info) 
 - Meta Based Zygisk "Fix"
 - USB notification auto accepting for MTP access
 - Meta Telemetry disabling
