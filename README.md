@@ -29,6 +29,11 @@ This supports Quest 2, pro, 3, and 3s currently. The process can take a bit to a
 - Build type spoofer (user, userdebug, eng)
 - CPU/GPU monitoring/config
 - App manager (Installing/Uninstalling/Launching)
+- Loft Installation for devices missing the environment
+- Eye Calibration launcher for Quest Pro
+- Fix Controllers option (Some have issues with controllers not working after root)
+- UI switching (DockUI/NavUI)
+- Service.jar patching (uninstall/disable protected system apps)
 
 ## Installation
 
@@ -39,6 +44,17 @@ Download the latest APK from [releases](https://github.com/Lumince/singularity/r
 ## Frida
 
 This repo contains Frida-Server, source is [here](https://github.com/frida/frida)
+
+## CONFIRMED LATEST BUILDS
+Panther|Quest 3s from 3697600027800610 (206.0.0.133.1332.1026601864)
+
+Eureka|Quest 3 from 52345320035400520 (206.0.0.133.1332.1026601864)
+
+Seacliff|Quest Pro from 51483620027600340 (206.0.0.132.1332.1026289179)
+
+Hollywood|Quest 2 from 52222680028100150 (206.0.0.133.1332.1026601864)
+
+Find out your incremental with this command `adb shell getprop ro.build.version.incremental`
 
 ## Credits
 
