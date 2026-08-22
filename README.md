@@ -14,6 +14,11 @@ This supports Quest 2, pro, 3, and 3s currently. The process can take a bit to a
 5. Check If an app called Singularity-Magisk is in Unknown Sources
 6. If it is, open it and grant Singularity root in the Super User tab and close/reopen Singularity
 
+## Pancake Site
+https://pancake.cbjn.dev/
+
+This should be usable in any browser that has webUSB support :) Enjoy!
+
 ## Features
 - Root-on-boot for root
 - FreeXR [safe root things](https://github.com/FreeXR/safe-root-things)
